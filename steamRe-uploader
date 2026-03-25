@@ -1,7 +1,4 @@
-#Requires -Version 5.1
-# Steam 32-bit Downgrader with Christmas Theme
-# Gets Steam path from registry and runs with specified parameters
-
+#this tool Download / force Steam to use an older (32-bit) version.
 # Clear screen
 Clear-Host
 

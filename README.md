@@ -17,4 +17,3 @@ Looks for Steam installation
 Downloads required files
 Applies the changes
 
-Enjoy :)
